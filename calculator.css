@@ -21,7 +21,7 @@ body::before{
     height: 100%;
     width: 100%;
     background:linear-gradient(#e91e63,#ffc107) ;
-    clip-path: circle(20% at 30% 20%);
+    clip-path: circle(10% at 30% 20%); /*changed */
 
 }
 body::after{
