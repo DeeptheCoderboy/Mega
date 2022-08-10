@@ -27,7 +27,7 @@ body::before{
 body::after{
     content: '';
     position:absolute;
-    top: 0;
+    top:100px;/* modified  */
     left: 0;
     height: 100%;
     width: 100%;
